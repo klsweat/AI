@@ -44,10 +44,6 @@ Most AI Alogrthms are expert systems:
   a system that employs knowledge that ordinarly require human expertise.
   D. mines alphago is not expert system which means its algorithms can be used and applied to other things.
    
-  
-History of AI
-  first coined in 1956, by john mcarthy, called together scientists to see if a machine could learn like a child does using trial and error to develop formal reasoning.
-  
 What Can AI Do?
 AI Applications
   machine learning
@@ -67,5 +63,28 @@ Designing rational Agents:
   - a computer equiped with AI algorthms is the agents, its an entity and perceives information from stock market and the action is the trade (sale or buy)
   - characteristics of the percepts, environment, and action space dictate techniques for selection rational actions.
   
+  Pac-Man as an Agent
+  
+  AI is the make machine think and act rationally. rational = maximizes through utility.
+  AI is make machines think and act so that the expected utility is maximized.
+  
+  AI includes: 
+    - Machine Learning
+        - Deep Learning
+   - Human-AI Interaction
+   - Robots (physically embodied)
+   - computer vision
+   - NLP - neutral language processing
+      
+ History of AI:
+ - first coined in 1956, by john mcarthy, called together scientists to see if a machine could learn like a child does using trial and error to develop formal reasoning.
+ - 1940 - 1950 Early Days:  - just Theory at this point
+- 2000 explosion in AI especially in neural networks
+    
+    
+re-inforcement learning:
+- give reward to agent, so it learns what is good and not
+           
+            
   
   
