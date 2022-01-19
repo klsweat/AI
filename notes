@@ -6,6 +6,23 @@ What is AI?
   has many differenct aspects.
   
   The Science of making machines think like people.
+    if machines think like people they will also do bad things, because our human brain is not perfect.
+    goal is to think / act rationally.
+  
+  Rational defined in computer science: 
+    - Maximally achieving pre-defined goals 
+    - Rationality only concerns what decisions are made (not the thought process behind them)
+    - goals are expressed in terms of the utility of outcomes (utitlity is the income earned on stock market)
+    - being rational means maximizing your expected utility. (expected means average), 
+    
+    better name for course is computational rationality
+      - goal is to design a rational agent to maximize the expected utility. 
+      
+ almost impossible to create AI that simulates a brain because of the modules that make up a brain
+ 
+ lessons learned from the brain memorization and simultation are key to decision making - must provide when build AI
+ 
+  
   
   Original 7 Aspects of A.I. (1955)
     1. Simulting higher functions of the human brain
@@ -41,3 +58,14 @@ AI Applications
   google deep learning 
   speech to text, image recognition, translation
 What is this course about?
+
+
+Designing rational Agents:
+  - an agent is an entity that precieves and acts
+    - does not have to be a robot
+  - a computer can be an agent
+  - a computer equiped with AI algorthms is the agents, its an entity and perceives information from stock market and the action is the trade (sale or buy)
+  - characteristics of the percepts, environment, and action space dictate techniques for selection rational actions.
+  
+  
+  
